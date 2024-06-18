@@ -2,29 +2,15 @@
 
 ## Introduction
 
-This lab will allow you to apply the framework to a problem on your own!  You will be creating an algorithm to find the first pair of numbers in an array that sum to the given input.  For example:
-
-`findSum(3, [0, 3]) => [0, 3]`
-`findSum(3, [3, 0]) => [3, 0]`
-`findSum(5, [1, 0, 3, 4, 2]) => [1, 4]`
+This practice lesson will be an example of how to apply our algorithmic problem solving framework to a problem.
 
 ## Tools and Resources
 
 It is recommended to review array iteration with for loops before continuing with this lesson.  [Link Content]
 
-## Instructions
-
-**Fork and clone** this practice lesson into your local environment. Navigate into its
-directory in the terminal, then run `code .` to open the files in Visual Studio
-Code.
-
-In the root directory run `npm install`.
-
-Open `src/index.js`.  This is where you will be writing your code.
-
-You can run `npm test` to test your code.
-
 ## Solution
+
+Together we will apply the Algorithmic Problem Solving Process to the function `findSum`. 
 
 **1. Problem Definition:** 
 
